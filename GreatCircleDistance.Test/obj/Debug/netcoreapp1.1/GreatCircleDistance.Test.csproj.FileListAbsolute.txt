@@ -1,0 +1,13 @@
+/Users/Guest/Desktop/GreatCircleDistance.Solutions/GreatCircleDistance.Test/bin/Debug/netcoreapp1.1/GreatCircleDistance.Test.deps.json
+/Users/Guest/Desktop/GreatCircleDistance.Solutions/GreatCircleDistance.Test/bin/Debug/netcoreapp1.1/GreatCircleDistance.Test.runtimeconfig.json
+/Users/Guest/Desktop/GreatCircleDistance.Solutions/GreatCircleDistance.Test/bin/Debug/netcoreapp1.1/GreatCircleDistance.Test.runtimeconfig.dev.json
+/Users/Guest/Desktop/GreatCircleDistance.Solutions/GreatCircleDistance.Test/obj/Debug/netcoreapp1.1/GreatCircleDistance.Test.AssemblyInfo.cs
+/Users/Guest/Desktop/GreatCircleDistance.Solutions/GreatCircleDistance.Test/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/GreatCircleDistance.Solutions/GreatCircleDistance.Test/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/GreatCircleDistance.Solutions/GreatCircleDistance.Test/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/GreatCircleDistance.Solutions/GreatCircleDistance.Test/bin/Debug/netcoreapp1.1/GreatCircleDistance.Test.dll
+/Users/Guest/Desktop/GreatCircleDistance.Solutions/GreatCircleDistance.Test/bin/Debug/netcoreapp1.1/GreatCircleDistance.Test.pdb
+/Users/Guest/Desktop/GreatCircleDistance.Solutions/GreatCircleDistance.Test/bin/Debug/netcoreapp1.1/GreatCircleDistance.dll
+/Users/Guest/Desktop/GreatCircleDistance.Solutions/GreatCircleDistance.Test/bin/Debug/netcoreapp1.1/GreatCircleDistance.pdb
+/Users/Guest/Desktop/GreatCircleDistance.Solutions/GreatCircleDistance.Test/obj/Debug/netcoreapp1.1/GreatCircleDistance.Test.dll
+/Users/Guest/Desktop/GreatCircleDistance.Solutions/GreatCircleDistance.Test/obj/Debug/netcoreapp1.1/GreatCircleDistance.Test.pdb
